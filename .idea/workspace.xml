@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae12b5a9-488d-49e9-8696-2c6f2111a20b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/entity/TodoList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AplikasiTodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AplikasiTodoList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,12 @@
       <workItem from="1677645018743" duration="2073000" />
       <workItem from="1678947177424" duration="1251000" />
       <workItem from="1678950424413" duration="1360000" />
-      <workItem from="1679006766601" duration="3884000" />
+      <workItem from="1679006766601" duration="4395000" />
+      <workItem from="1679011881566" duration="44000" />
+      <workItem from="1679055330879" duration="2167000" />
+      <workItem from="1679061027720" duration="16000" />
+      <workItem from="1679095446359" duration="1795000" />
+      <workItem from="1679379540066" duration="136000" />
     </task>
     <servers />
   </component>
