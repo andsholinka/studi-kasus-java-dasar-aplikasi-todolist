@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae12b5a9-488d-49e9-8696-2c6f2111a20b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TodoListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/TodoListRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/repository/TodoListRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/TodoListRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/service/TodoListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/TodoListServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/service/TodoListServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/service/TodoListServiceTest.java" afterDir="false" />
@@ -69,7 +70,7 @@
       <workItem from="1679061027720" duration="16000" />
       <workItem from="1679095446359" duration="1795000" />
       <workItem from="1679379540066" duration="3842000" />
-      <workItem from="1679451456007" duration="1177000" />
+      <workItem from="1679451456007" duration="1709000" />
     </task>
     <servers />
   </component>
